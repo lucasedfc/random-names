@@ -1,0 +1,28 @@
+{
+  "name": "the-office-random-names",
+  "version": "1.0.1",
+  "description": "I'm just playing with javascript and npm It only returns a random name of a protagonist of the series the office nothing else",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Lucas Heim <lucasedfc@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasedfc/random-names.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lucasedfc/random-names/issues"
+  },
+  "homepage": "https://github.com/lucasedfc/random-names#readme"
+}
