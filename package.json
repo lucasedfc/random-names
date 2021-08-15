@@ -14,7 +14,7 @@
   "author": "Lucas Heim <lucasedfc@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "bin/global.js"
+    "the-office-random": "bin/global.js"
   },
   "preferGlobal": true,
   "repository": {
