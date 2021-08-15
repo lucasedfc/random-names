@@ -1,6 +1,6 @@
 {
   "name": "the-office-random-names",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "I'm just playing with javascript and npm It only returns a random name of a protagonist of the series the office nothing else",
   "main": "src/index.js",
   "scripts": {
